@@ -1,0 +1,13 @@
+{
+  "name": "red-ocean-bot",
+  "version": "2.5.0",
+  "description": "Red Ocean War Bot - Anti-Kick & Hyper-Spam",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "telegraf": "^4.16.3",
+    "pino": "^8.19.0",
+    "fs-extra": "^11.2.0"
+  }
+}
